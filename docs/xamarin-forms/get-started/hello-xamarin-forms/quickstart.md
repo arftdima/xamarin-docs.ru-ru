@@ -67,7 +67,7 @@ ms.lasthandoff: 04/08/2018
 
     Сохраните изменения в файле **MainPage.xaml**, нажав клавиши **CTRL+S**, и закройте файл.
 
-7. В **обозревателе решений** разверните узел **MainPage.xaml** и дважды щелкните файл **MainPage.xaml**, чтобы открыть его:
+7. В **обозревателе решений** разверните узел **MainPage.xaml** и дважды щелкните файл **MainPage.xaml.cs**, чтобы открыть его:
 
     ![](quickstart-images/vs/open-mainpage-codebehind.png "Открытие файла MainPage.xaml.cs")
 
